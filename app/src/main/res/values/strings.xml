@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiniCloud Controller</string>
+    <string name="accessibility_description">Allows MiniCloud Controller to perform touch gestures requested from your paired laptop on your local Wi-Fi network.</string>
+</resources>

@@ -1,0 +1,14 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.minicloud.controller'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId 'com.minicloud.controller'
+        minSdk 26
+        targetSdk 28
+        versionCode 1
+        versionName '0.1'
+    }
+}
